@@ -22,8 +22,8 @@ Installation
 - **F7** → Remove arm reach limit  
 
 Requirements
-- Burglin’ Gnomes compatible with BepInEx 5.4.x  
-- BepInEx 5.4.23.5  
+- Burglin’ Gnomes Demo steam compatible with BepInEx 5.4.x  
+- BepInEx 5.4.23.5 https://github.com/BepInEx/BepInEx/releases/tag/v5.4.23.5 
 ______________________________________________________________________Русский
 
 **PersistentStaminaMod** — плагин для **Burglin’ Gnomes**, который позволяет:
@@ -42,7 +42,7 @@ ______________________________________________________________________Русск
 **F6** → Включить сильные руки  
 **F7** → Убрать ограничение длины рук  
 
-- Burglin’ Gnomes  (совместимая с BepInEx 5.4.x)  
-- BepInEx 5.4.23.5  
+- Burglin’ Gnomes Demo steam  (совместимая с BepInEx 5.4.x)  
+- BepInEx 5.4.23.5  https://github.com/BepInEx/BepInEx/releases/tag/v5.4.23.5
 
 MIT License — свободное использование, модификация и распространение.
